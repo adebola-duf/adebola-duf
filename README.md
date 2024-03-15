@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Odufuwa Adebola</h1>
-<h3 align="center">A passionate Python dev/ data scientist/ machine learning engineer</h3>
+<h3 align="center">A passionate Flutter dev/ Python dev/ Aspiring Computer Vision engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/adebola_duf" target="blank"><img src="https://img.shields.io/twitter/follow/adebola_duf?logo=twitter&style=for-the-badge" alt="adebola_duf" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Statistics, Data science.**
+- 🌱 I’m currently learning **Flutter, Math for deep learning, Computer Vision**
 
 - 📫 How to reach me **adeboladuf@gmil.com**
 
