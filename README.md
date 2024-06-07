@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 I am Adebola Odufuwa / Bolexyro a Flutter dev and Aspiring AI research scientist.</h1>
+<h1 align="center">hey there 👋 I am Adebola Odufuwa / Bolexyro a Flutter dev and Aspiring AI research scientist (Computer Vision).</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">- 🤓 I'm from Lagos Nigeria and I enjoy coding. I'm hoping to start a startup someday.<br>- 📚  I’m currently learning Flutter, Math for deep learning, Computer Vision.</p>
+<p align="center">- 🤓 I'm from Ogun State, Nigeria and I enjoy coding. I'm hoping to start a startup someday.<br>- 📚  I’m currently learning Flutter, Math for deep learning, Computer Vision.</p>
 
 ###
 
